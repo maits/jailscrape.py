@@ -2,6 +2,8 @@ jailscrape.py
 =============
 
 A scraper of inmates at the Boone County Jail, part of a Hacks Hackers DC workshop. The original repo can be found here: 
+https://github.com/jackiekazil/scraping-class
+
 
 From the instructor: 
 
